@@ -1,1 +1,1 @@
-RELEASING ON 10/14/23. To use a bookmarklet, paste the javascript in the bookmarklet bar.
+This bookmarklet turns you boring normal page into a 3d simulater where you can control an imposter or crewmate( which ever) around your page and can still press stuff. Added extra grass father into the page for gamers that don't want to touch grass. To use this bookmarklet, paste the Java script code into the bookmark bar.
